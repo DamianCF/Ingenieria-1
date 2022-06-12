@@ -1346,7 +1346,7 @@
 											"top": 290.5,
 											"width": 137,
 											"height": 13,
-											"text": "Gestionar las finanzas"
+											"text": "Gestionar finanzas"
 										},
 										{
 											"_type": "LabelView",
@@ -1382,7 +1382,7 @@
 									"font": "Arial;13;0",
 									"left": 959,
 									"top": 283.5,
-									"width": 147.99169921875,
+									"width": 147,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGA7jaBHcyLND0="
@@ -3812,7 +3812,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Gestionar las finanzas",
+					"name": "Gestionar finanzas",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
