@@ -1,24 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31605.320
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaConexion", "CapaConexion\CapaConexion.csproj", "{AC8EBAFF-0165-4467-B267-263EDEBBCD50}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "CapaLogica\CapaLogica.csproj", "{3C80E1E9-D130-49D4-A571-450DD532A1F9}"
-	ProjectSection(ProjectDependencies) = postProject
-		{AC8EBAFF-0165-4467-B267-263EDEBBCD50} = {AC8EBAFF-0165-4467-B267-263EDEBBCD50}
-	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaIntegracion", "CapaIntegracion\CapaIntegracion.csproj", "{88571118-0523-416C-A1A3-7ABF6795B257}"
-	ProjectSection(ProjectDependencies) = postProject
-		{3C80E1E9-D130-49D4-A571-450DD532A1F9} = {3C80E1E9-D130-49D4-A571-450DD532A1F9}
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "CapaPresentacion\CapaPresentacion.csproj", "{A9C51593-E44F-490C-A19C-04BA07E2C49B}"
-	ProjectSection(ProjectDependencies) = postProject
-		{88571118-0523-416C-A1A3-7ABF6795B257} = {88571118-0523-416C-A1A3-7ABF6795B257}
-	EndProjectSection
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{11543980-624C-4BB8-B68D-7F8239A97561}"
 EndProject
@@ -28,18 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AC8EBAFF-0165-4467-B267-263EDEBBCD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC8EBAFF-0165-4467-B267-263EDEBBCD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC8EBAFF-0165-4467-B267-263EDEBBCD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC8EBAFF-0165-4467-B267-263EDEBBCD50}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3C80E1E9-D130-49D4-A571-450DD532A1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C80E1E9-D130-49D4-A571-450DD532A1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C80E1E9-D130-49D4-A571-450DD532A1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C80E1E9-D130-49D4-A571-450DD532A1F9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{88571118-0523-416C-A1A3-7ABF6795B257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88571118-0523-416C-A1A3-7ABF6795B257}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88571118-0523-416C-A1A3-7ABF6795B257}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88571118-0523-416C-A1A3-7ABF6795B257}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A9C51593-E44F-490C-A19C-04BA07E2C49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A9C51593-E44F-490C-A19C-04BA07E2C49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9C51593-E44F-490C-A19C-04BA07E2C49B}.Release|Any CPU.ActiveCfg = Release|Any CPU

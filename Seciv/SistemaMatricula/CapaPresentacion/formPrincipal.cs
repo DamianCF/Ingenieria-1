@@ -36,7 +36,7 @@ namespace CapaPresentacion
 
         private void formPrincipal_Load(object sender, EventArgs e)
         {
-            BuscarUsuario();
+            //BuscarUsuario();
         }
 
         public int IDUsuario1 { get => IDUsuario; set => IDUsuario = value; }
@@ -44,9 +44,9 @@ namespace CapaPresentacion
 
         private void btnEstudiantes_Click(object sender, EventArgs e)
         {
-            formEstudiante form = new formEstudiante();
-            form.EstadoUsuario = estadoUsuario;
-            openChildForm(form); ;
+            //formEstudiante form = new formEstudiante();
+            //form.EstadoUsuario = estadoUsuario;
+            //openChildForm(form); ;
         }
 
         private void BuscarUsuario()
@@ -62,44 +62,44 @@ namespace CapaPresentacion
 
         private void btnGrupos_Click(object sender, EventArgs e)
         {
-            formGrupo form = new formGrupo();
-            form.EstadoUsuario = estadoUsuario;
-            openChildForm(form); ;
+            //formGrupo form = new formGrupo();
+            //form.EstadoUsuario = estadoUsuario;
+            //openChildForm(form); ;
         }
 
         private void btnCursos_Click(object sender, EventArgs e)
         {
-            formCurso form = new formCurso();
-            form.EstadoUsuario = estadoUsuario; // eenvio de estado de usuario
-            openChildForm(form); ;
+            //formCurso form = new formCurso();
+            //form.EstadoUsuario = estadoUsuario; // eenvio de estado de usuario
+            //openChildForm(form); ;
         }
 
         private void btnProfesores_Click(object sender, EventArgs e)
         {
-            frmProfesor form = new frmProfesor();
-            form.EstadoUsuario = estadoUsuario; // envio de estado de usuario
-            openChildForm(form);
+            //frmProfesor form = new frmProfesor();
+            //form.EstadoUsuario = estadoUsuario; // envio de estado de usuario
+            //openChildForm(form);
         }
 
         private void btnAulas_Click(object sender, EventArgs e)
         {
-            formAula form = new formAula();
-            form.EstadoUsuario = estadoUsuario; // eenvio de estado de usuario
-            openChildForm(form);
+            //formAula form = new formAula();
+            //form.EstadoUsuario = estadoUsuario; // eenvio de estado de usuario
+            //openChildForm(form);
         }
 
         private void btnHorarios_Click(object sender, EventArgs e)
         {
-            formHorario form = new formHorario();
-            form.EstadoUsuario = estadoUsuario;
-            openChildForm(form);
+            //formHorario form = new formHorario();
+            //form.EstadoUsuario = estadoUsuario;
+            //openChildForm(form);
         }
 
         private void btnMatriculas_Click(object sender, EventArgs e)
         {
-            formMatricula form = new formMatricula();
-            form.EstadoUsuario = estadoUsuario;
-            openChildForm(form);
+            //formMatricula form = new formMatricula();
+            //form.EstadoUsuario = estadoUsuario;
+            //openChildForm(form);
         }
 
         private void pctrMinimizar_Click(object sender, EventArgs e)

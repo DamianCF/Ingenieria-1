@@ -295,14 +295,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SistemaMatricula.exe" size="8149456">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SistemaMatricula.exe" size="8148944">
       <assemblyIdentity name="SistemaMatricula" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JlX0fmlLstbC8xcP6K3HK7UD++56Dx5R7hNVpjPawl4=</dsig:DigestValue>
+        <dsig:DigestValue>n61KlXx86icz2ZdzWcH1cA8g+sLPxBxIp4DY6ek00/Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
