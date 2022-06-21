@@ -1,0 +1,21 @@
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaLogica.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaLogica.pdb
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaConexion.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaIntegracion.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaConexion.pdb
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaIntegracion.pdb
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Release\CapaLogica.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Release\CapaLogica.csproj.CopyComplete
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Release\CapaLogica.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Release\CapaLogica.pdb
+D:\Documentos\Universidad\Programacion 3\Versiones Sistema Matricula\Proyecto1 - FINAL BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaLogica.dll
+D:\Documentos\Universidad\Programacion 3\Versiones Sistema Matricula\Proyecto1 - FINAL BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaLogica.pdb
+D:\Documentos\Universidad\Programacion 3\Versiones Sistema Matricula\Proyecto1 - FINAL BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaConexion.dll
+D:\Documentos\Universidad\Programacion 3\Versiones Sistema Matricula\Proyecto1 - FINAL BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaIntegracion.dll
+D:\Documentos\Universidad\Programacion 3\Versiones Sistema Matricula\Proyecto1 - FINAL BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaConexion.pdb
+D:\Documentos\Universidad\Programacion 3\Versiones Sistema Matricula\Proyecto1 - FINAL BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\bin\Release\CapaIntegracion.pdb
+D:\Documentos\Universidad\Programacion 3\Versiones Sistema Matricula\Proyecto1 - FINAL BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Release\CapaLogica.csproj.AssemblyReference.cache
+D:\Documentos\Universidad\Programacion 3\Versiones Sistema Matricula\Proyecto1 - FINAL BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Release\CapaLogica.csproj.CoreCompileInputs.cache
+D:\Documentos\Universidad\Programacion 3\Versiones Sistema Matricula\Proyecto1 - FINAL BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Release\CapaLogica.csproj.CopyComplete
+D:\Documentos\Universidad\Programacion 3\Versiones Sistema Matricula\Proyecto1 - FINAL BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Release\CapaLogica.dll
+D:\Documentos\Universidad\Programacion 3\Versiones Sistema Matricula\Proyecto1 - FINAL BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Release\CapaLogica.pdb

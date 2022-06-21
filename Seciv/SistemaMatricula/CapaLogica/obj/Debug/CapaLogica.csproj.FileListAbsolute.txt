@@ -1,0 +1,20 @@
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\Bibliotecas\CapaLogica.pdb
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.pdb
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\Bibliotecas\CapaLogica.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\Bibliotecas\CapaLogica.pdb
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.pdb
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\Bibliotecas\CapaLogica.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\Bibliotecas\CapaLogica.pdb
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.pdb

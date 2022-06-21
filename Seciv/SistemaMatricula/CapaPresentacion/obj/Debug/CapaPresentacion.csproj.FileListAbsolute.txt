@@ -1,0 +1,144 @@
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\stdole.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.pdb
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.pdb
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmProfesor.resources
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formAula.resources
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formCurso.resources
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formEstudiante.resources
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formGrupo.resources
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formHorario.resources
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formMatricula.resources
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporte.resources
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Documentos\Universidad\Programacion 3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formPrincipal.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\stdole.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.pdb
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.pdb
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmProfesor.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formAula.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formCurso.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formEstudiante.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formGrupo.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formHorario.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formLogin.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formMatricula.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formPrincipal.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formUsuario.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporte.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\SistemaMatricula.exe.config
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\SistemaMatricula.exe
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\SistemaMatricula.pdb
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\SistemaMatricula.exe
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\SistemaMatricula.pdb
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\SistemaMatricula.exe.manifest
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\SistemaMatricula.application
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\SistemaMatricula.exe.manifest
+D:\Escritorio\Proyecto1 P3\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\SistemaMatricula.application
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\SistemaMatricula.exe.config
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\SistemaMatricula.exe.manifest
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\SistemaMatricula.application
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\SistemaMatricula.exe
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\SistemaMatricula.pdb
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\stdole.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.pdb
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.pdb
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmProfesor.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formAula.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formCurso.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formEstudiante.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formGrupo.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formHorario.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formLogin.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formMatricula.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formPrincipal.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.formUsuario.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporte.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\SistemaMatricula.exe.manifest
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\SistemaMatricula.application
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\SistemaMatricula.exe
+D:\Escritorio\Proyecto1 - BlancoRonald\SistemaMatricula\SistemaMatricula\CapaPresentacion\obj\Debug\SistemaMatricula.pdb
