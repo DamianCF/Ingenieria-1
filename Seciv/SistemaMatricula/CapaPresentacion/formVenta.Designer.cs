@@ -32,6 +32,7 @@ namespace CapaPresentacion
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(formVenta));
             this.lblProfesor_cedula = new System.Windows.Forms.Label();
             this.lblProfesor_nombre = new System.Windows.Forms.Label();
             this.lblProfesor_primerApellido = new System.Windows.Forms.Label();
@@ -63,7 +64,7 @@ namespace CapaPresentacion
             this.lblProfesor_cedula.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblProfesor_cedula.Location = new System.Drawing.Point(20, 132);
             this.lblProfesor_cedula.Name = "lblProfesor_cedula";
-            this.lblProfesor_cedula.Size = new System.Drawing.Size(190, 31);
+            this.lblProfesor_cedula.Size = new System.Drawing.Size(152, 25);
             this.lblProfesor_cedula.TabIndex = 0;
             this.lblProfesor_cedula.Text = "Codigo Factura:";
             // 
@@ -73,7 +74,7 @@ namespace CapaPresentacion
             this.lblProfesor_nombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblProfesor_nombre.Location = new System.Drawing.Point(20, 175);
             this.lblProfesor_nombre.Name = "lblProfesor_nombre";
-            this.lblProfesor_nombre.Size = new System.Drawing.Size(149, 31);
+            this.lblProfesor_nombre.Size = new System.Drawing.Size(119, 25);
             this.lblProfesor_nombre.TabIndex = 1;
             this.lblProfesor_nombre.Text = "Total Venta:";
             // 
@@ -83,7 +84,7 @@ namespace CapaPresentacion
             this.lblProfesor_primerApellido.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblProfesor_primerApellido.Location = new System.Drawing.Point(20, 218);
             this.lblProfesor_primerApellido.Name = "lblProfesor_primerApellido";
-            this.lblProfesor_primerApellido.Size = new System.Drawing.Size(163, 31);
+            this.lblProfesor_primerApellido.Size = new System.Drawing.Size(130, 25);
             this.lblProfesor_primerApellido.TabIndex = 2;
             this.lblProfesor_primerApellido.Text = "Fecha Venta:";
             // 
@@ -93,7 +94,7 @@ namespace CapaPresentacion
             this.lblProfesor_segundoApellido.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblProfesor_segundoApellido.Location = new System.Drawing.Point(20, 287);
             this.lblProfesor_segundoApellido.Name = "lblProfesor_segundoApellido";
-            this.lblProfesor_segundoApellido.Size = new System.Drawing.Size(176, 31);
+            this.lblProfesor_segundoApellido.Size = new System.Drawing.Size(141, 25);
             this.lblProfesor_segundoApellido.TabIndex = 3;
             this.lblProfesor_segundoApellido.Text = "Factura Venta:";
             // 
@@ -227,9 +228,9 @@ namespace CapaPresentacion
             this.Titulo.BackColor = System.Drawing.SystemColors.Control;
             this.Titulo.Font = new System.Drawing.Font("Century Gothic", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Titulo.ForeColor = System.Drawing.Color.DarkSlateBlue;
-            this.Titulo.Location = new System.Drawing.Point(164, 9);
+            this.Titulo.Location = new System.Drawing.Point(164, 26);
             this.Titulo.Name = "Titulo";
-            this.Titulo.Size = new System.Drawing.Size(193, 59);
+            this.Titulo.Size = new System.Drawing.Size(154, 47);
             this.Titulo.TabIndex = 20;
             this.Titulo.Text = "Ventas";
             // 
@@ -250,10 +251,11 @@ namespace CapaPresentacion
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(25, 4);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(25, 26);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(133, 100);
+            this.pictureBox1.Size = new System.Drawing.Size(114, 78);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 22;
             this.pictureBox1.TabStop = false;
@@ -309,7 +311,7 @@ namespace CapaPresentacion
             this.chkbxMostrarEliminados.AutoSize = true;
             this.chkbxMostrarEliminados.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkbxMostrarEliminados.Location = new System.Drawing.Point(392, 73);
-            this.chkbxMostrarEliminados.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.chkbxMostrarEliminados.Margin = new System.Windows.Forms.Padding(4);
             this.chkbxMostrarEliminados.Name = "chkbxMostrarEliminados";
             this.chkbxMostrarEliminados.Size = new System.Drawing.Size(211, 27);
             this.chkbxMostrarEliminados.TabIndex = 26;
