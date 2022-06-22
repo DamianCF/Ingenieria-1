@@ -44,27 +44,21 @@ namespace CapaPresentacion
 
         private void btnEstudiantes_Click(object sender, EventArgs e)
         {
-            //formEstudiante form = new formEstudiante();
-            //form.EstadoUsuario = estadoUsuario;
-            //openChildForm(form); ;
+            formVenta form = new formVenta();
+            form.EstadoUsuario = estadoUsuario;
+            openChildForm(form); ;
         }
 
         private void BuscarUsuario()
         {
 
-            using (GestorUsuario Usuario = new GestorUsuario())
-            {
-                this.dsUsuario = Usuario.ConsultarUsuario(IDUsuario);
-                this.dtUsuario = this.dsUsuario.Tables[0];
-            }
-            EstadoUsuario = this.dtUsuario.Rows[0]["Usuario_tipo"].ToString();
         }
 
         private void btnGrupos_Click(object sender, EventArgs e)
         {
-            //formGrupo form = new formGrupo();
-            //form.EstadoUsuario = estadoUsuario;
-            //openChildForm(form); ;
+            formCompra form = new formCompra();
+            form.EstadoUsuario = estadoUsuario;
+            openChildForm(form); ;
         }
 
         private void btnCursos_Click(object sender, EventArgs e)
@@ -76,9 +70,9 @@ namespace CapaPresentacion
 
         private void btnProfesores_Click(object sender, EventArgs e)
         {
-            //frmProfesor form = new frmProfesor();
-            //form.EstadoUsuario = estadoUsuario; // envio de estado de usuario
-            //openChildForm(form);
+            formCompra form = new formCompra();
+            form.EstadoUsuario = estadoUsuario;
+            openChildForm(form); ;
         }
 
         private void btnAulas_Click(object sender, EventArgs e)

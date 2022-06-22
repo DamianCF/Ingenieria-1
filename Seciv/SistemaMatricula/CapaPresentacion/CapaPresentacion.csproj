@@ -158,11 +158,11 @@
       <DependentUpon>crProfesores.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="formProfesor.cs">
+    <Compile Include="formVenta.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formProfesor.Designer.cs">
-      <DependentUpon>formProfesor.cs</DependentUpon>
+    <Compile Include="formVenta.Designer.cs">
+      <DependentUpon>formVenta.cs</DependentUpon>
     </Compile>
     <Compile Include="formAula.cs">
       <SubType>Form</SubType>
@@ -200,11 +200,11 @@
     <Compile Include="formLogin.Designer.cs">
       <DependentUpon>formLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="formMatricula.cs">
+    <Compile Include="formCompra.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formMatricula.Designer.cs">
-      <DependentUpon>formMatricula.cs</DependentUpon>
+    <Compile Include="formCompra.Designer.cs">
+      <DependentUpon>formCompra.cs</DependentUpon>
     </Compile>
     <Compile Include="formPrincipal.cs">
       <SubType>Form</SubType>
@@ -267,8 +267,8 @@
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>crProfesores.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="formProfesor.resx">
-      <DependentUpon>formProfesor.cs</DependentUpon>
+    <EmbeddedResource Include="formVenta.resx">
+      <DependentUpon>formVenta.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="formAula.resx">
       <DependentUpon>formAula.cs</DependentUpon>
@@ -288,8 +288,8 @@
     <EmbeddedResource Include="formLogin.resx">
       <DependentUpon>formLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formMatricula.resx">
-      <DependentUpon>formMatricula.cs</DependentUpon>
+    <EmbeddedResource Include="formCompra.resx">
+      <DependentUpon>formCompra.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="formPrincipal.resx">
       <DependentUpon>formPrincipal.cs</DependentUpon>
